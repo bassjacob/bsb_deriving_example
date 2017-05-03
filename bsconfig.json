@@ -1,0 +1,16 @@
+{
+  "name": "bsb_deriving_example",
+  "sources": [
+    {
+      "dir": "src"
+    }
+  ],
+  "refmt": "replcae with a path to a more modern refmt (like your global)",
+  "refmt-flags": [
+    "--add-printers",
+    "--add-runtime",
+    "--print",
+    "binary"
+  ],
+  "bs-dependencies": []
+}
